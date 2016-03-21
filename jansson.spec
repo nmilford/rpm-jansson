@@ -11,7 +11,7 @@ Summary: C library for encoding, decoding and manipulating JSON data
 Group:   System Environment/Libraries
 License: MIT
 URL:     http://www.digip.org/jansson/
-Source0: http://www.digip.org/jansson/releases/jansson-%{version}.tar.bz2
+Source0: http://www.digip.org/jansson/releases/jansson-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 %description
